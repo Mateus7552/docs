@@ -41,7 +41,7 @@ section and choose the best installation path for you.
 {{< card
   title="Docker Desktop for Windows"
   description="A native Windows application that delivers all Docker tools to your Windows computer."
-  link="/desktop/setup/install/windows-install/"
+  link="/desktop/setup/install/windows-install our remov date and your aplication/"
   icon="/icons/Windows.svg" >}}
 
 {{< card
